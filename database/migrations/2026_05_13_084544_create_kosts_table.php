@@ -16,7 +16,7 @@ return new class extends Migration
             $table->text('deskripsi');
             $table->text('fasilitas');
             
-            // Kolom Alamat Baru
+            // Kolom Alamat
             $table->string('kota');
             $table->string('kecamatan');
             $table->string('kelurahan');

@@ -7,9 +7,9 @@
 
     <header id="beranda" class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-12 md:py-16 scroll-mt-16">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 class="text-3xl md:text-5xl font-bold mb-4 tracking-tight">Cari Hunian Kost Terbaik di Sekitar Kampus</h1>
+            <h1 class="text-3xl md:text-5xl font-bold mb-4 tracking-tight">PUSAT KOST</h1>
             <p class="text-blue-100 text-base md:text-lg max-w-2xl mx-auto mb-8 font-medium">
-                Platform pencarian kost terpercaya bagi masyarakat umum dan mahasiswa Unsulbar.
+                Platform pencarian kost bagi masyarakat umum dan mahasiswa Unsulbar.
             </p>
 
             <div class="max-w-2xl mx-auto">
@@ -146,7 +146,7 @@
             <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight mb-4">Tentang PusatKost</h2>
             <div class="w-16 h-1 bg-blue-600 mx-auto mb-6 rounded"></div>
             <p class="text-gray-600 leading-relaxed text-base max-w-2xl mx-auto mb-8">
-                PusatKost adalah platform penyedia informasi hunian kamar kost terpercaya dan akurat di area sekitar kampus Universitas Sulawesi Barat (Unsulbar). Kami berkomitmen mempermudah mahasiswa mendapatkan kosan yang aman, dekat, dan sudah melalui verifikasi kelayakan administratif dari pihak pengelola.
+                PusatKost adalah platform penyedia informasi kost. Kami mempermudah mendapatkan kosan, dan sudah melalui verifikasi kelayakan administratif dari pihak pengelola .
             </p>
             <div class="bg-blue-50 border border-blue-100 rounded-2xl p-6 inline-flex flex-col sm:flex-row items-center gap-4 shadow-sm">
                 <div class="w-12 h-12 bg-blue-600 text-white rounded-xl flex items-center justify-center shadow-md">
